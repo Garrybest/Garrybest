@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=garrybest.garrybest)
 
 ![](https://github-readme-stats.vercel.app/api?username=Garrybest&theme=buefy&show_icons=true)
 
