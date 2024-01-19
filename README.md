@@ -2,9 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Garrybest&theme=buefy&show_icons=true)
 
-- 🔭 I’m currently working on multi-clusters in Kubernetes.
-- 🌱 I’m currently learning containerd.
-- 📫 How to reach me: garrybest@foxmail.com / garryfang@tencent.com
+- 🔭 I’m currently working on heterogeneous resource management, GPU virtulization and colocation.
+- 🌱 I’m currently learning GPU inference framework and LLM.
+- 📫 How to reach me: garrybest@foxmail.com
 
 <!--
 **Garrybest/Garrybest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
